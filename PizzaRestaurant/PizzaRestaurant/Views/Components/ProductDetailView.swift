@@ -32,16 +32,6 @@ struct ProductDetailView: View {
                 .scaledToFit()
             
             
-            
-           
-            
-            
-            
-            
-            
-            
-            
-            
             //конец кода для 10 пицц
             Text("\(product.title)")
                 .bold()

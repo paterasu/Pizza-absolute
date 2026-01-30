@@ -1,9 +1,4 @@
-//
-//  MainMenu.swift
-//  PizzaDeliveryApp
-//
-//  Created by Даниил Кискин on 05.01.2025.
-//
+
 
 import SwiftUI
 struct CatalogView: View {

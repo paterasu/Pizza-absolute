@@ -88,7 +88,7 @@ class ProductViewModel: ObservableObject {
             desctipt: "Острая колбаса, халапеньо, сыр",
             ordersCount: 65,
             isRecommend: true
-        ),
+        )
     ]
 }
 
